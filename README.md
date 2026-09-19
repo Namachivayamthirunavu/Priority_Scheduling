@@ -1,8 +1,9 @@
 # Experiment 2(b): Program to Implement Priority Scheduling
 
-Royce Niran George A
-
-212223060231
+```
+Name : Namachivayam T
+Reg No : 212223060179
+```
 
 ## Aim
 
